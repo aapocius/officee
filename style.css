@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.citation {
+    padding-left: 0px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    
+}
+
+
+body {
+    background: rgb(224, 223, 223);
+    margin: 211px;
+    margin-top: 2px;
+}
+.screen {
+    background: white;
+    max-width: 81rem;
+    margin: auto;
+    border-top: 3px solid #0d0d0e;
+    
+
+}
+h1 { margin: 0px;
+    
+}
+header
+ {  background: rgba(184, 211, 34, 0.849);
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 0.8rem ;
+    margin-top: 0px;
+    margin-bottom: 33px;
+    height: 150px;
+    
+
+  }
+  header.img {
+
+    width: 3.5rem;
+    
+}
+header nav a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+header nav a:not(:last-child) {
+    margin-right: 3rem;
+
+}
+footer {
+    text-align: center;
+}
+img {
+    margin-right: 20px;
+    float: left;
+    width: 350px;
+    
+}
+
+.half-with {
+    text-align: justify;
+    display: inline-block;
+    width: 380px;
+    margin-right: -30px;
+    margin-left: 40px;
+    
+    
+    
+    
+}
+.half-with2 {
+    text-align: justify;
+    display: inline-block;
+    width: 720px;
+    margin-right: 20px;
+    margin-left: 60px;
+    
+    
+    
+}
+.lentele {
+    margin-left: 28px;
+}
+.link {
+    display: flex;
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    line-height: 43px;
+    background: rgba(184, 211, 34, 0.849);
+    color: white;
+    
+    font-size: 22px;
+    justify-content: center;
+    margin: 20px;
+    margin-left: 270px;
+    margin-bottom: 91px;
+    
+}
+
+.lente {
+    padding-left: 17px;
+    
+}
+  .link2 {
+      
+      margin-left: 350px;
+      
+  }
+  footer {
+      margin: 10px;
+  }
